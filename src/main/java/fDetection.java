@@ -1,6 +1,6 @@
 public class fDetection{
     public static boolean isFraud(int amount){
-        return amount > 10000;
+        return amount > 5000;
 
     }
 
